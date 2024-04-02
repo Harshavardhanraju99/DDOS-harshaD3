@@ -4,8 +4,8 @@
 
 # DOS hack python script ...........!
 
-import socket
-import threading
+*import socket
+*import threading
 
 -->These lines import necessary modules from Python's standard library. socket is used for creating network sockets, and threading is used for creating and managing threads.
 
