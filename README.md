@@ -2,10 +2,14 @@
 
 ![Cool Typography Boo Halloween Store Logo](https://github.com/Harshavardhanraju99/DDOS-harshaD3/assets/160013343/590fba29-1f58-45de-9ebc-4e8b603d14f0)
 
+
+![Black Modern Breaking News Instagram Post](https://github.com/Harshavardhanraju99/DDOS-harshaD3/assets/160013343/a3d5d752-b53f-48a0-bb83-ad1b72a825c7)
+
+
 # DOS hack python script ...........!
 
-# import socket
-( import threading )
+ import socket
+ import threading 
 
 -->These lines import necessary modules from Python's standard library. socket is used for creating network sockets, and threading is used for creating and managing threads.
 
