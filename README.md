@@ -2,7 +2,7 @@
 
 ![Cool Typography Boo Halloween Store Logo](https://github.com/Harshavardhanraju99/DDOS-harshaD3/assets/160013343/590fba29-1f58-45de-9ebc-4e8b603d14f0)
 
-DOS hack python script ...........!
+# DOS hack python script ...........!
 
 import socket
 import threading
